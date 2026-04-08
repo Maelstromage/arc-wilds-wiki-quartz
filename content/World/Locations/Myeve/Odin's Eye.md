@@ -69,4 +69,5 @@
 - Is the necklace only a stealth charm, or is there more to it?
 - Why was the necklace sacred to Jax’s people?
 - What is Amruniel truly watching over in Odin’s Eye?
+- Who is the man in the brown cloak who likes to gamble?
 
