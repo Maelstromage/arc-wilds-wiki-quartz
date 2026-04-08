@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "wiki.gameonmarathon.com",
+    baseUrl: "dndwiki.gameonmarathon.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
