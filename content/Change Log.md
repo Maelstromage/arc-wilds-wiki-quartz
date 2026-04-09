@@ -1,5 +1,15 @@
 # Change Log
 
+## 2026-04-09
+- Updated [[00 Carceri]] with broader Cathrys details, The Steading, Minethys, and new Carceri leads from the 2026-04-08 session report.
+- Updated [[02 Cathrys]] with Abi's hut, acid-safe guidance, The Steading, and Minethys details from the 2026-04-08 session report.
+- Updated [[03 Minethys]] by replacing placeholder text with known details and the Jesse lead from the 2026-04-08 session report.
+- Added [[The Steading]] as a new location from the 2026-04-08 session report.
+- Corrected [[Abby]] to [[Abi]] and updated her NPC notes with her role, backstory, and Cathrys guidance from the 2026-04-08 session report.
+- Added [[Martha]] as a new NPC from The Steading.
+- Added [[Jesse]] as a new NPC and lead toward a trickster god on the next layer.
+- Updated [[D&D/Campaigns/00 West Marches/World/People/NPCs/Loki]] with the new Jesse lead from the 2026-04-08 session report.
+
 ## 2026-04-05
 - Added [[Chinny]] from the 2026-03-04 session report as a new NPC connected to Bone Speaker Ruins and a dangerous portal-access game lair.
 - Added [[Chinny's Lair]] from the 2026-03-04 session report as a new location scroll using the location template.

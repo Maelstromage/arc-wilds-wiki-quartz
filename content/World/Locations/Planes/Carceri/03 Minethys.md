@@ -1,78 +1,41 @@
-# Location: Name  
-## Rumors 
-- rumor 
-- rumor  
-## What is Known 
-- Distance between planets is 5000 miles
-- orbs are smaller
-- Windy and cold
-- Yellow desert sand blew around constantly
-	- bad vision
-	- choke people
-	- hurt skin
-	- blown sand
-		- need heavy clothing or skin would be flayed to the bones
-	- Yellow sand and the red glow of the bors caused the orbs to look orange
-	- Clouds of sand are like stinking cloud
-		- wet cloth protects against it
-		- 
- 
-## History 
-- established past events 
-- known developments 
-- discoveries or changes over time  
- 
-## People 
-### [[Person Name]] 
-### [[Person Name]]
-## Loose Threads 
-- open questions 
-- unresolved tensions 
-- future discoveries`
-    
-# DM Notes 
-## Hidden Truths 
-- secret causes 
-- concealed lore 
-- real identities  
- 
-## NPC Truths 
-- motives 
-- secret relationships 
-- private histories  
+# Location: Minethys
 
-## Locations
-### Mausoleum of Pain
-- seat of power for Falazure aspect of Null the death wyrm
-### The Rack of Injustice
-- Karontor god of fomorians and verbeeg
+## Rumors
+- The next lower layer of Carceri is a place of yellow sand and skin-flaying wind.
+- Travelers say cloth over the mouth is the only reason anyone survives there at all.
+- Somewhere on the next layer, a trickster god may be found.
 
-### Trickster's Delight
-- Trickster's Delight seat of power for Parrafaire
+## What is Known
+- Minethys is a lower layer of Carceri reached by descending beyond Cathrys.
+- The worlds there are smaller and much farther apart.
+- The landscape is cold, windy, and filled with blowing yellow sand.
+- Visibility is poor in the sandstorms.
+- The wind-driven sand can choke, scour skin, and even flay the unprotected.
+- Wet cloth offers some protection against the worst of the choking sand.
+- The yellow sand and red glow of the worlds can make the orbs appear orange from a distance.
+- Abi described Minethys as the next layer below Cathrys.
+- Jesse is said to know a trickster god on the next layer, making Minethys the likely next step in the party's search.
 
-### Sand Tombs of Payratheon
-- The remnants of an old city coverdd by sand, but appeared for an hour or so from time to time.
-## Inhabitants
-### Petitions
-- greedy
-- they can build sand huts that stand agains the tornadoes
-### Parrafaire
-- 10 foot long winged water naga
-- human head feathered ears
-- can change colrs
-- Playful light spirited
-- Loves Riddles and mazes
-- He can come and go as he pleases
-- has a gold band on his tail, ring of warmth and ring of fire resistance
-- Can cast Maze
+## History
+- Minethys has not yet been reached directly by the party.
+- Its current description comes from Abi's warning about the next descent through Carceri.
+- The party's next lead toward Loki may draw them there through Jesse's knowledge of a trickster god on the next layer.
 
+## People
+### [[Jesse]]
+- Said to know a trickster god on the next layer
 
-## Mechanics / Encounters 
-- traps 
-- hidden items
-- rituals 
-- encounter notes 
-## Future Hooks 
-- later consequences 
-- downstream plot threads 
-- unresolved arc material 
+## Loose Threads
+- Is the trickster god Jesse knows actually Loki?
+- What powers or settlements endure in Minethys despite the sandstorms?
+- What preparation will the party need to survive the next descent?
+
+# DM Notes
+## Hidden Truths
+
+## NPC Truths
+
+## Mechanics / Encounters
+
+## Future Hooks
+- Jesse may point the party toward a lower-layer meeting, bargain, or ambush.
