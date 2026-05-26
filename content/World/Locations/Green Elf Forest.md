@@ -10,7 +10,7 @@
 
 ## What is Known
 - Green Elf Forest is an elven forest. [[2020-12-20]]
-- The forest stands near the [[D&D/Campaigns/00 West Marches/World/Locations/Ancient Elvish City]] and serves as part of its outer protection, helping keep the hidden city from being found.
+- The forest stands near the [[Ancient Elvish City]] and serves as part of its outer protection, helping keep the hidden city from being found.
 - There is a small eatery in the forest called Black Castle, owned by hill dwarves and known for serving mini burgers.
 - The elves associated with it were described as wearing green outfits with gold leaves. [[2020-12-20]]
 - The party went there during the events of the 2020-12-20 session report. [[2020-12-20]]

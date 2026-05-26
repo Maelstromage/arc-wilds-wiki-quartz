@@ -1,5 +1,33 @@
 # Change Log
 
+## 2026-05-26
+- Renamed the old Prince Sina scroll into [[Prince Cena]] and expanded the entry with the 2026-05-20 Ferris developments, including his independent poisoning of the soldiers and his role in the mercenary camp assault.
+- Updated [[Ferris]] with the confirmed years-long bandit extortion, the blind scout lead, and the destruction of the mercenary encampment from the 2026-05-20 GM Assistant report.
+- Updated [[Degra]] so her Ferris notes now point to [[Prince Cena]] under the preferred spelling.
+- Added [[Watsie]] as a new NPC tied to Prince Cena and the Ferris camp assault from the 2026-05-20 GM Assistant report.
+- Added [[Bartholomew]] as a new NPC after Barnabas's death and the haunted grove aftermath in the 2026-05-20 GM Assistant report.
+
+## 2026-05-25
+- Added [[Ferris]] as a new location scroll from the 2026-05-13 GM Assistant report, folding in the city's main known sites and political tensions rather than splitting them into separate location scraps.
+- Added [[Prince Cena]] as a new NPC scroll from the 2026-05-13 GM Assistant report, though the earlier shelf draft used the older Sina spelling before later canon cleanup.
+- Added [[Degra]] as a new NPC scroll from the 2026-05-13 GM Assistant report.
+- Updated [[Frogra]] with his disappearance during the white-beam transport to Ferris from the 2026-05-13 GM Assistant report.
+- Updated [[Magic Tower]] with the chessboard trial, the extradimensional hole and Zaqar, Amanda's restoration, and the tower's moral trial sequence from the 2026-04-29 GM Assistant report.
+- Updated [[Amanda]] with her confirmed identity as a servant of Myrkul, her lizard curse, and her restoration within Magic Tower from the 2026-04-29 GM Assistant report.
+- Updated [[Myeve]] with the note that strange supernatural incidents near town are treated with unsettling normalcy, plus a related loose thread.
+- Added [[Frogra]] as a new NPC from the 2026-04-29 GM Assistant report.
+- Added [[Zaqar]] as a new NPC tied to Magic Tower and its impossible extradimensional chamber.
+- Added [[Rod of the Pact Keeper]] as a new magic item tied to the tentacled entity encountered near Myeve.
+- Updated [[White Peak Mountain]] with early Wildhammer history, Mir Batola context, and notes on the dwarf hold's fall from the earliest Undated Randi Journal Session 01 material.
+- Updated [[Cloven Hoof Cave]] with the two-entrance approach, Red Palm patrol details, and additional cave-watch notes from the earliest Undated Randi Journal Session 01 material.
+- Updated [[Knights of the Holy Order Settlement]] with its early description as a devout new human settlement seeking miners to convert from the earliest Undated Randi Journal Session 01 material.
+- Added [[Falstead Wildhammer]] as a new NPC from the earliest Undated Randi Journal Session 01 material.
+- Added [[Red Palm Goblins]] as a new faction from the earliest Undated Randi Journal Session 01 material.
+- Updated [[White Peak Mountain]] with Falstead's rescue, the surviving Wildhammer refuge, hippogriff support, and the early Lexarial note from Undated Randi Journal Session 02.
+- Updated [[Cloven Hoof Cave]] with the right-hand chamber liquid location, the stolen sample, and the note that it was later left with [[John Harrison]] from Undated Randi Journal Session 02.
+- Updated [[Falstead Wildhammer]] with his broken leg and rescue from the high cave in Undated Randi Journal Session 02.
+- Updated [[John Harrison]] with the note that the Cloven Hoof liquid sample was left in his care in Undated Randi Journal Session 02.
+
 ## 2026-04-09
 - Updated [[00 Carceri]] with broader Cathrys details, The Steading, Minethys, and new Carceri leads from the 2026-04-08 session report.
 - Updated [[02 Cathrys]] with Abi's hut, acid-safe guidance, The Steading, and Minethys details from the 2026-04-08 session report.

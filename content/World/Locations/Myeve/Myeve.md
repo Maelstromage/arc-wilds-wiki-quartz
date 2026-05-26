@@ -19,6 +19,7 @@
 - Large-scale threats do not seem to enter or attack the town.
 - That protection is real, but not openly explained.
 - The safety of Myeve does not extend very far into the surrounding wilds, where danger returns quickly.
+- Strange supernatural incidents on the nearby roads and farms are sometimes treated by locals with unsettling normalcy.
 - Important known locations in town include:
   - **Odin’s Eye**, the main tavern and social hub
   - **Zarya’s General Store**, a key source of supplies and trade
@@ -46,4 +47,4 @@
 - What happens if adventurers bring danger back with them into Myeve?
 - How far does the town’s protection actually extend?
 - Why was Myeve founded at this fog-bound harbor, and what was already present before it grew into a frontier settlement?
-
+- Are the strange supernatural incidents near Myeve connected in some way to the same hidden force that keeps the town safe?

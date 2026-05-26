@@ -26,6 +26,7 @@
 - Was polishing a fossilized egg when first encountered in the manor
 - Maintains a large reconstructed golden orrery at Harrison's Manor
 - Uses recovered artifacts and relics to piece together the lost history of the land
+- In the earliest surviving expedition notes, the party leaves him a sample of the sparkly liquid recovered from [[Cloven Hoof Cave]]. [[Session 02]]
 - Has collected 32 unique numbered stone figurines out of a larger set of 64
 - Believes the figurines are part of a larger mechanism still waiting to be found
 - Notable objects associated with him or his manor include:
